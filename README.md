@@ -52,28 +52,60 @@ Configuration Of A Cisco Switch Using A Console Cable With Iso Cli On An End Dev
 <img src="https://imgur.com/nEH9Gp9.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
-Powershell Integrity Check: <br/>
-<img src="https://imgur.com/vXHxXDB.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Configuration Of A Cisco Router Using A Console Cable With Iso Cli On An End Device: <br/>
+<img src="https://imgur.com/YDTGF8e.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
-Comparision Before Installation:  <br/>
-<img src="https://imgur.com/CIT8XsN.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Firewall Configuration:  <br/>
+<img src="https://imgur.com/KQnTQnp.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
-Kali Linux Terminal Startup:  <br/>
-<img src="https://imgur.com/tQcOv9F.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Firewall Configuration Ping Packet Status:  <br/>
+<img src="https://imgur.com/G4GrWBl.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
-Vlc Vendors Checksum Sha256 For Kali:  <br/>
-<img src="https://imgur.com/GeEanqk.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Connecting 2 Devices With Different Ip Address On A Cisco Router:  <br/>
+<img src="https://imgur.com/271pKoE.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
- Kali Linux Terminal Checksum Comparision Sha256 Md5 Sha1:  <br/>
-<img src="https://imgur.com/6Z2jy8Q.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Connecting 2 Devices With the Same Ip Address On A Cisco Switch:  <br/>
+<img src="https://imgur.com/qaNMksR.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 <br />
 <br />
-Final Comparision of Vlc Sha256 Checksum Before Installation:  <br/>
-<img src="https://imgur.com/UVJ7tff.png" height="80%" width="80%" alt="Integrity Check Steps"/>
+Static Routing With 4 Cisco Routers With Different Ip Addres:  <br/>
+<img src="https://imgur.com/e2KAexT.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Static Routing On 3 Routers Using The Cli:  <br/>
+<img src="https://imgur.com/Cr7z10v.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Configuration Confirmed On The Static Connection On 3 Cisco Router Using The Cli:  <br/>
+<img src="https://imgur.com/U7yluuX.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Vlan Configuration On Cisco Switch Limiting Broadcast From Cli:  <br/>
+<img src="https://imgur.com/cG8gFji.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Vlan Configuration On Cisco Switch Limiting Broadcast:  <br/>
+<img src="https://imgur.com/PWV9iZL.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Vlan Configuration On Cisco Switch Limiting Broadcast:  <br/>
+<img src="https://imgur.com/7LUtXEd.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Vlan Structure On Cisco Switch Limiting Broadcast:  <br/>
+<img src="https://imgur.com/cfo9QRr.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+ Dynamic Routing Rip Approach:  <br/>
+<img src="https://imgur.com/6ZD3MwV.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
+<br />
+<br />
+Cisco Server Configuration For Diffrent Branches Across The States:  <br/>
+<img src="https://imgur.com/vckfT5D.png" height="80%" width="80%" alt="Cisco Packet Tracer"/>
 </p>
 
 <!--
