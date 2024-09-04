@@ -1,6 +1,6 @@
 <h1>Network Configuration With Cisco Packet Tracer</h1>
 
- ### [Video Tutorials Explaining Cisco Packet Tracer In Details](https://www.mediafire.com/file/2oh497p9de41r45/UABP4181.mp4/file)
+ ### [Video Tutorials Explaining Cisco Packet Tracer In Details](https://www.mediafire.com/file/y0bwh6mecv6wlbx/ONTP7088.mp4/file)
 
 <h2>Description</h2>
 The project involves using Cisco Packet Tracer to guide users through a comprehensive network configuration process. The key elements of the project are as follows:
